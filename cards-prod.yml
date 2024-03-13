@@ -1,0 +1,12 @@
+# Property to be read from code
+build:
+  version: "v2.5"
+
+# @ConfigurationProperties
+contact:
+  message: "Bank System - Cards API"
+  details:
+    name: "Maria Perez - Soporte"
+    email: "maria.perez@prueba.com"
+  phone-numbers:
+    - "(57) 315-111-1111"

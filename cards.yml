@@ -1,0 +1,12 @@
+build:
+  version: "v1.0"
+
+# @ConfigurationProperties
+contact:
+  messge: "Bank System - Cards API"
+  details:
+    name: "Luis Gomez - Lider"
+    email: "luis.gomez@prueba.com"
+  phone-numbers:
+    - "(57) 320-321-1234"
+    - "(57) 320-000-7894"
