@@ -1,0 +1,12 @@
+# Property to be read from code
+build:
+  version: "v1.0"
+
+# @ConfigurationProperties
+contact:
+  message: "Bank System - Accounts API"
+  details:
+    name: "Melquis Peralta - Technical leader"
+    email: "melquis.peralta@claro.com.co"
+  phone-numbers:
+    - "(57) 312-123-1234"

@@ -1,0 +1,11 @@
+build:
+  version: "v3.0"
+
+# @ConfigurationProperties
+contact:
+  messge: "Bank System - Accounts API"
+  details:
+    name: "Fabian Alfonso - Developer"
+    email: "fabian.alfonso@claro.com.co"
+  phone-numbers:
+    - "(57) 320-951-8946"
