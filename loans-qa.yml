@@ -4,9 +4,9 @@ build:
 
 # @ConfigurationProperties
 contact:
-  message: "Bank System - Cards API"
+  message: "Bank System - Loans API"
   details:
-    name: "Fabian Alfonso - Developer"
+    name: "Fabian Alfonso - Developer WS"
     email: "fabian.alfonso@claro.com.co"
   phone-numbers:
     - "(57) 320-951-8946"

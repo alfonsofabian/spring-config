@@ -1,0 +1,12 @@
+build:
+  version: "v1.0"
+
+# @ConfigurationProperties
+contact:
+  messge: "Bank System - Loans API"
+  details:
+    name: "Juan Lopez - Product Owner"
+    email: "juan.perez@claro.com"
+  phone-numbers:
+    - "(57) 320-222-2222"
+    - "(57) 320-111-1111"

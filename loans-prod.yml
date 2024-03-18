@@ -1,0 +1,12 @@
+# Property to be read from code
+build:
+  version: "v3.5"
+
+# @ConfigurationProperties
+contact:
+  message: "Bank System - Loans API"
+  details:
+    name: "Carlos Duran - Lider Soporte"
+    email: "carlos.duran@prueba.com"
+  phone-numbers:
+    - "(57) 320-320-3200"
