@@ -4,7 +4,7 @@ build:
 
 # @ConfigurationProperties
 contact:
-  message: "Sistema Bancario - Accounts API / Productivo"
+  message: "Sistema Bancario - Accounts API / Productivo - Rabbitmq"
   details:
     name: "Fabian Alfonso"
     email: "fabian.alfonso@claro.com.co"
