@@ -4,9 +4,9 @@ build:
 
 # @ConfigurationProperties
 contact:
-  message: "Sistema Bancario - Accounts API / Rabbitmq"
+  message: "Bank System - Accounts API / Rabbitmq"
   details:
-    name: "Fabian Santana"
+    name: "Andres Santana"
     email: "fabian.alfonso@claro.com.co"
   phone-numbers:
     - "(57) 320-951-8946"
