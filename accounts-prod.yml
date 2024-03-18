@@ -1,6 +1,6 @@
 # Property to be read from code
 build:
-  version: "v2.0"
+  version: "v1.1"
 
 # @ConfigurationProperties
 contact:
@@ -10,3 +10,4 @@ contact:
     email: "fabian.alfonso@claro.com.co"
   phone-numbers:
     - "(57) 320-951-8946"
+    - "(57) 320-952-0000"
