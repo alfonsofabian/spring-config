@@ -4,9 +4,9 @@ build:
 
 # @ConfigurationProperties
 contact:
-  message: "Bank System - Loans API"
+  message: "Bank System - Loans API / Rabbitmq"
   details:
-    name: "Carlos Duran - Lider Soporte"
-    email: "carlos.duran@prueba.com"
+    name: "Maria Perez - Soporte"
+    email: "m.perez@prueba.com"
   phone-numbers:
     - "(57) 320-320-3200"
