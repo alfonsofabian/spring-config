@@ -1,12 +1,12 @@
 # Property to be read from code
 build:
-  version: "v1.0"
+  version: "v1.5"
 
 # @ConfigurationProperties
 contact:
-  message: "Bank System - Accounts API / Ambiente Productivo"
+  message: "Sistema Bancario - Accounts API / Ambiente Productivo"
   details:
-    name: "Roberto Carlos - Supervisor"
+    name: "Roberto Carlos - Gerente General"
     email: "r.carlos@claro.com.co"
   phone-numbers:
     - "(57) 312-123-1234"
