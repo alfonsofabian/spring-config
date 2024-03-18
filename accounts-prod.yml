@@ -4,9 +4,9 @@ build:
 
 # @ConfigurationProperties
 contact:
-  message: "Bank System - Accounts API"
+  message: "Bank System - Accounts API / Ambiente Productivo"
   details:
-    name: "Melquis Peralta - Technical leader"
-    email: "melquis.peralta@claro.com.co"
+    name: "Roberto Carlos - Supervisor"
+    email: "r.carlos@claro.com.co"
   phone-numbers:
     - "(57) 312-123-1234"
