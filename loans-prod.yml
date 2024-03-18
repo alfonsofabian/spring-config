@@ -6,7 +6,7 @@ build:
 contact:
   message: "Bank System - Loans API / Rabbitmq"
   details:
-    name: "Maria Perez - Soporte"
+    name: "Andres Santana - Soporte"
     email: "m.perez@prueba.com"
   phone-numbers:
     - "(57) 320-320-3200"
